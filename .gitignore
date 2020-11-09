@@ -1,1 +1,4 @@
 .venv
+.vscode
+geckodriver
+geckodriver.log
